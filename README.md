@@ -1,7 +1,7 @@
 # Angular PWA
 
 ## Angular Progressive Web App 
-PWA is used Service Worker for caching the HTML,JS,CSS,Image files for caching them in CacheStorage with ngsw-config.json and manifest.webmanifest config files
+PWA is used Service Worker for caching the HTML,JS,CSS,Image files for caching them in CacheStorage with ngsw-config.json and manifest.webmanifest config files, it will be using those files which are cached even if no internet connection
 
 ## Angular CLI
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
